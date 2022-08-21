@@ -1,0 +1,9 @@
+On each players turn, they will have the choice to spin the wheel, buy a vowel, or solve the puzzle.
+If the wheel lands on a dollar amount, the player can guess a consonant in the puzzle.
+If that consonant is in the word, the dollar amount will be added to their round total and the player gets another turn.
+If the wheel lands on Lose a Turn, play continues with the next player.
+If the wheel lands on Bankrupt, the player loses all of the money they have earned in the current round.
+The game continues with the next player.
+Vowels cost $250, so the player must have earned at least that amount during a round before buying one.
+The player who solves the puzzle wins the round and will have the money they earned during the round added to their total prize.
+The player with the most money at the end of 2 rounds will play in the final round for a chance to win an extra prize.
